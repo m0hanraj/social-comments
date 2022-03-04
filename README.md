@@ -22,14 +22,14 @@ Launches the test runner in the interactive watch mode and runs the tests that a
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Static API
+## Static API
 
 The project uses static API to simulate the remote API back-end. I have used `json-server` to fake the API's and it reads data from `db.json`.
 
 To run this service you need to install json-server using
 
-`npm install -g json-server`
+### `npm install -g json-server`
 
 Run below command from this repo to start the service
 
-`json-server -p 4000 --watch db.json`
+### `json-server -p 4000 --watch db.json`

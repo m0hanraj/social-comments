@@ -11,3 +11,57 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.comment-container {
+	border-radius: 25px;
+	border: 2px solid #7000E0;
+	width: 450px;
+	height: auto;
+	margin-top: 10px;
+	padding: 1%;
+}
+
+.avatar {
+	object-fit: fill;
+	border-radius: 50%;
+	margin-left: 2%;
+	float: left;
+}
+
+.comment {
+	padding-left: 26%;
+}
+
+.user-name {
+	line-height: 0;
+}
+
+.publishedTime {
+	font-size: "1em";
+	color: #575757;
+}
+
+button {
+	display: inline-block;
+	padding: 2%;
+	margin-left: 5px;
+	background-color: #fff;
+	cursor: pointer;
+	border: 2px solid #575757;
+	border-radius: 5px;
+}
+
+.danger {
+  border-color: #D5190B;
+  color: #D5190B;
+  margin-left: 12px;
+}
+
+.danger:hover {
+  background: #f44336;
+  color: white;
+}
+
+h2 {
+	margin-left: 10px ;
+}

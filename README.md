@@ -1,6 +1,6 @@
-# TDD React Testing library
+# TDD with React Testing library
 
-This repo is contains a sample code for TDD React Testing library blog.
+This repo contains a sample code for [TDD with React Testing Library](https://www.mohanraj.dev/blogs/tdd-with-react-testing-library-component-testing) blog.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
